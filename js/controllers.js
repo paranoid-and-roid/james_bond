@@ -8,7 +8,6 @@ myApp
 	.controller('DetailCtrl', ['$scope', 'bondService', '$stateParams', '$sce', function($scope, bondService, $stateParams, $sce) {
 		bondService.detail($stateParams.title, function(response) {
 			$scope.film = response;
-			console.log(response);
 			
 		$scope.trustSrc = function(src) {
     		return $sce.trustAsResourceUrl(src);
