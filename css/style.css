@@ -1,0 +1,21 @@
+aside {
+	width: 20%;
+	float: left;
+	height: auto;
+}
+
+section {
+	width: 60%;
+	padding: 2%;
+	float: left;
+}
+
+dl {
+	padding: 5px;	
+	margin-bottom: 5px;
+}
+
+dt, dd {
+	width: 80%;
+	margin: 0 10%;
+}
