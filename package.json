@@ -1,17 +1,21 @@
 {
-  "name": "template_express_angular",
+  "name": "James_Bond_films",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+ 	"postinstall": "bower install",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "body-parser": "^1.12.2",
+  "dependencies": {
+  	"body-parser": "^1.12.2",
     "express": "^4.12.3",
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {    
     "grunt": "^0.4.5",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-express": "^1.4.1",
