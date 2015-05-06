@@ -1,8 +1,27 @@
-<h2>{{ film.title }}</h2>
+<div>
+	
+	<h2>{{ film.title }}</h2>
+	
+		<table>
+		<tr>
+			<td>Year of Release</td>
+			<td>{{ film.year }}</td>
+		</tr>
+		<tr>
+			<td>Who plays Bond?</td>
+			<td>{{ film.actor }}</td>
+		</tr>
+		<tr>
+			<td>Director</td>			
+			<td>{{ film.director }}</td>
+		</tr>
+		<tr>
+			<td>Writers</td>
+			<td>{{ film.writer }}</td>
+		</tr>		
+	</table>
 
-<iframe width="420" height="315" ng-src="{{trustSrc(film.video)}}" frameborder="0" allowfullscreen></iframe>
+	<iframe width="420" height="315" ng-src="{{trustSrc(film.video)}}" frameborder="0" allowfullscreen></iframe>
+	
+</div>
 
-<p>{{ film.year }}</p>
-<p>{{ film.actor }}</p>
-<p>{{ film.director }}</p>
-<p>{{ film.writer }}</p>

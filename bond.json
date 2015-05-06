@@ -21,7 +21,35 @@
 	"year": 1964,
 	"director": "Guy Hamilton",
 	"writer": "Richard Maibaum, John Dehn"
-	},		
+	},	
+	{
+	"title": "Thunderball",
+	"actor": "Sean Connery",
+	"year": 1965,
+	"director": "Terence Young",
+	"writer": "Richard Maibaum, John Hopkins"
+	},
+	{
+	"title": "You Only Live Twice",
+	"actor": "Sean Connery",
+	"year": 1967,
+	"director": "Lewis Gilbert",
+	"writer": "Roald Dahl"
+	},
+	{
+	"title": "On Her Majesty's Secret Service",
+	"actor": "George Lazenby",
+	"year": 1969,
+	"director": "Peter R. Hunt",
+	"writer": "Richard Maibaum, Simon Raven"
+	},
+	{
+	"title": "Diamonds Are Forever",
+	"actor": "Sean Connery",
+	"year": 1971,
+	"director": "Guy Hamilton",
+	"writer": "Richard Maibaum, Tom Mankiewicz"
+	},	
 	{
 	"title": "Live And Let Die",
 	"actor": "Roger Moore",
@@ -35,6 +63,55 @@
 	"year": 1974,
 	"director": "Guy Hamilton",
 	"writer": "Richard Maibaum, Tom Mankiewicz"
+	},
+	{	
+	"title": "The Spy Who Loved Me",
+	"actor": "Roger Moore",
+	"year": 1977,
+	"director": "Lewis Gilbert",
+	"writer": "Christopher Wood, Richard Maibaum"
+	},
+	{	
+	"title": "Moonraker",
+	"actor": "Roger Moore",
+	"year": 1979,
+	"director": "Lewis Gilbert",
+	"writer": "Christopher Wood"
+	},
+	{	
+	"title": "For Your Eyes Only",
+	"actor": "Roger Moore",
+	"year": 1981,
+	"director": "John Glen",
+	"writer": "Michael G. Wilson, Richard Maibaum"
+	},	
+	{
+	"title": "Octopussy",
+	"actor": "Roger Moore",
+	"year": 1983,
+	"director": "John Glen",
+	"writer": "George McDonald Fraser, Michael G. Wilson, Richard Maibaum"
+	},
+	{	
+	"title": "A View To A Kill",
+	"actor": "Roger Moore",
+	"year": 1985,
+	"director": "John Glen",
+	"writer": "Michael G. Wilson, Richard Maibaum"
+	},
+	{	
+	"title": "The Living Daylghts",
+	"actor": "Timothy Dalton",
+	"year": 1987,
+	"director": "John Glen",
+	"writer": "Richard Maibaum, Michael G. Wilson"
+	},
+	{	
+	"title": "Licence To Kill",
+	"actor": "Timothy Dalton",
+	"year": 1989,
+	"director": "John Glen",
+	"writer": "Richard Maibaum, Michael G. Wilson"
 	},		
 	{
 	"title": "Goldeneye",
@@ -44,12 +121,26 @@
 	"writer": "Michael France, Jeffrey Caine, Kevin Wade, Bruce Feirstein"
 	},
 	{
+	"title": "Tomorrow Never Dies",
+	"actor": "Pearse Brosnan",
+	"year": 1997,
+	"director": "Roger Spottiswoode",
+	"writer": "Bruce Feirstein"
+	},	
+	{
 	"title": "The World Is Not Enough",
 	"actor": "Pearse Brosnan",
 	"year": 1999,
 	"director": "Michael Apted",
 	"writer": "Neal Purvis, Robert Wade, Bruce Feirstein"
-	},	
+	},
+	{
+	"title": "Die Another Day",
+	"actor": "Pearse Brosnan",
+	"year": 2002,
+	"director": "Lee Tamahori",
+	"writer": "Neal Purvis, Robert Wade, Bruce Feirstein"
+	},
 	{
 	"title": "Casino Royale",
 	"actor": "Daniel Craig",
@@ -63,5 +154,12 @@
 	"year": 2008,
 	"director": "Marc Forster",
 	"writer": "Neal Purvis, Robert Wade, Paul Haggis"
+	},
+	{
+	"title": "Skyfall",
+	"actor": "Daniel Craig",
+	"year": 2012,
+	"director": "Sam Mendes",
+	"writer": "Neal Purvis, Robert Wade, John Logan"
 	}
 ]
