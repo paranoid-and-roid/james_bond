@@ -1,6 +1,7 @@
 <aside>
 	<ul>
-		<li ng-repeat="film in films"><a ui-sref="home.detail({ title: film.title })">{{ film.title }}</a></li>
+		<li><a  class="btn btn-primary" ui-sref="home.main">Home</a></li>
+		<li ng-repeat="film in films"><a  class="btn btn-primary" ui-sref="home.detail({ title: film.title })">{{ film.title }}</a></li>
 	</ul>
 </aside>
 
