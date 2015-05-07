@@ -4,6 +4,10 @@ myApp
 		bondService.list(function(response){
 			$scope.films = response;
 		});
+		
+		bondService.image(function(response) {
+			$scope.images = response;
+		});
 	}])
 	.controller('DetailCtrl', ['$scope', 'bondService', '$stateParams', '$sce', function($scope, bondService, $stateParams, $sce) {
 		bondService.detail($stateParams.title, function(response) {

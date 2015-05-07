@@ -24,6 +24,15 @@ myApp
 				})[0];
 				callback(film);
 			});
+		},
+	
+	
+		image: function(callback) {
+			$http({
+				method: 'GET',
+				url: 'bond_actors.json',
+				cache: true
+			}).success(callback);
 		}
 	};
 }]);

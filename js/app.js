@@ -10,7 +10,8 @@ var myApp = angular.module("myApp", ['ui.router'])
 		})
 		.state('home.main', {
 			url: '/',
-			templateUrl: 'templates/home.main.html'
+			templateUrl: 'templates/home.main.html',
+			controller: 'MainController'
 		})
 		.state('home.detail', {
 			url: '/:title',
