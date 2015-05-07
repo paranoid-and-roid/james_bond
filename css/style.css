@@ -1,7 +1,3 @@
-.btn-primary {
-	background: green;
-}
-
 header {
 	width: 100%;	
 }
@@ -12,7 +8,14 @@ h1, h2 {
 
 h2 {
 	text-align: center;
-	padding: 20px 0;
+	padding: 20px 0 0;
+	font-weight: bold;
+}
+
+p {
+	text-align: center;
+	font-size: 150%;
+	font-weight: bold;
 }
 
 td {
@@ -35,15 +38,14 @@ aside {
 
 section {
 	width: 74%;
-	float: left;
-		
+	float: left		
 }
 
 section div {
 	width: 70%;
 	margin: 0 auto;
-	background: yellow;
-	//padding: 20px 0;
+	background: #f0f8ff;
+	padding-bottom: 50px;
 }
 
 ul {
@@ -59,12 +61,15 @@ li {
 }
 
 li:first-child {
-	margin-bottom: 20px;
-	font-size: 200%;
-	font-weight: bold;
+	margin-bottom: 20px;	
 }
 
 li a {
 	text-decoration: none;	
 	width: 80%;	
+}
+
+li:first-child a {
+	font-size: 150%;
+	font-weight: bold;
 }

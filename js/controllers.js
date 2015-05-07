@@ -9,7 +9,7 @@ myApp
 		bondService.detail($stateParams.title, function(response) {
 			$scope.film = response;
 			
-		$scope.trustSrc = function(src) {
+		$scope.trustSource = function(src) {
     		return $sce.trustAsResourceUrl(src);
   			};
 
