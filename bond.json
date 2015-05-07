@@ -19,6 +19,7 @@
 	"title": "Goldfinger",
 	"actor": "Sean Connery",
 	"year": 1964,
+	"video": "https://www.youtube.com/embed/Fy_PJODH3p0",
 	"director": "Guy Hamilton",
 	"writer": "Richard Maibaum, John Dehn"
 	},	
@@ -26,6 +27,7 @@
 	"title": "Thunderball",
 	"actor": "Sean Connery",
 	"year": 1965,
+	"video": "https://www.youtube.com/embed/5XIwUxmtX5U",
 	"director": "Terence Young",
 	"writer": "Richard Maibaum, John Hopkins"
 	},
@@ -33,6 +35,7 @@
 	"title": "You Only Live Twice",
 	"actor": "Sean Connery",
 	"year": 1967,
+	"video": "https://www.youtube.com/embed/Maos82cqguo",
 	"director": "Lewis Gilbert",
 	"writer": "Roald Dahl"
 	},
@@ -40,6 +43,7 @@
 	"title": "On Her Majesty's Secret Service",
 	"actor": "George Lazenby",
 	"year": 1969,
+	"video": "https://www.youtube.com/embed/9GLj1jnv4IA",
 	"director": "Peter R. Hunt",
 	"writer": "Richard Maibaum, Simon Raven"
 	},
@@ -47,6 +51,7 @@
 	"title": "Diamonds Are Forever",
 	"actor": "Sean Connery",
 	"year": 1971,
+	"video": "https://www.youtube.com/embed/k5e5GjnyMHI",
 	"director": "Guy Hamilton",
 	"writer": "Richard Maibaum, Tom Mankiewicz"
 	},	
@@ -54,6 +59,7 @@
 	"title": "Live And Let Die",
 	"actor": "Roger Moore",
 	"year": 1973,
+	"video": "https://www.youtube.com/embed/kmH0PP_zAKo",
 	"director": "Guy Hamilton",
 	"writer": "Tom Mankiewicz"
 	},
@@ -61,6 +67,7 @@
 	"title": "The Man With The Golden Gun",
 	"actor": "Roger Moore",
 	"year": 1974,
+	"video": "https://www.youtube.com/embed/9_dAKu_cNS8",
 	"director": "Guy Hamilton",
 	"writer": "Richard Maibaum, Tom Mankiewicz"
 	},
@@ -68,6 +75,7 @@
 	"title": "The Spy Who Loved Me",
 	"actor": "Roger Moore",
 	"year": 1977,
+	"video": "https://www.youtube.com/embed/UUxpXy1Oot4",
 	"director": "Lewis Gilbert",
 	"writer": "Christopher Wood, Richard Maibaum"
 	},
@@ -75,6 +83,7 @@
 	"title": "Moonraker",
 	"actor": "Roger Moore",
 	"year": 1979,
+	"video": "https://www.youtube.com/embed/fAucs8K5E0U",
 	"director": "Lewis Gilbert",
 	"writer": "Christopher Wood"
 	},
@@ -82,6 +91,7 @@
 	"title": "For Your Eyes Only",
 	"actor": "Roger Moore",
 	"year": 1981,
+	"video": "https://www.youtube.com/embed/515lZbvqQwo",
 	"director": "John Glen",
 	"writer": "Michael G. Wilson, Richard Maibaum"
 	},	
@@ -89,13 +99,23 @@
 	"title": "Octopussy",
 	"actor": "Roger Moore",
 	"year": 1983,
+	"video": "https://www.youtube.com/embed/VlBUPtKIoHo",
 	"director": "John Glen",
 	"writer": "George McDonald Fraser, Michael G. Wilson, Richard Maibaum"
+	},
+	{
+	"title": "Never Say Never Again",
+	"actor": "Sean Connery",
+	"year": 1983,
+	"video": "https://www.youtube.com/embed/R0355pD08lY",
+	"director": "Irvin Kershner",
+	"writer": "Lorenzo Semple Jr., Dick Clement, Ian La Frenais"
 	},
 	{	
 	"title": "A View To A Kill",
 	"actor": "Roger Moore",
 	"year": 1985,
+	"video": "https://www.youtube.com/embed/lj-FvdszohE",
 	"director": "John Glen",
 	"writer": "Michael G. Wilson, Richard Maibaum"
 	},
@@ -103,6 +123,7 @@
 	"title": "The Living Daylghts",
 	"actor": "Timothy Dalton",
 	"year": 1987,
+	"video": "https://www.youtube.com/embed/KMqP7v0uSFU",
 	"director": "John Glen",
 	"writer": "Richard Maibaum, Michael G. Wilson"
 	},
@@ -110,6 +131,7 @@
 	"title": "Licence To Kill",
 	"actor": "Timothy Dalton",
 	"year": 1989,
+	"video": "https://www.youtube.com/embed/-t7fBHepPXU",
 	"director": "John Glen",
 	"writer": "Richard Maibaum, Michael G. Wilson"
 	},		
@@ -117,6 +139,7 @@
 	"title": "Goldeneye",
 	"actor": "Pearse Brosnan",
 	"year": 1995,
+	"video": "https://www.youtube.com/embed/HHFXthl5IJo",
 	"director": "Martin Campbell",
 	"writer": "Michael France, Jeffrey Caine, Kevin Wade, Bruce Feirstein"
 	},
@@ -124,6 +147,7 @@
 	"title": "Tomorrow Never Dies",
 	"actor": "Pearse Brosnan",
 	"year": 1997,
+	"video": "https://www.youtube.com/embed/meY1R43fJIQ",
 	"director": "Roger Spottiswoode",
 	"writer": "Bruce Feirstein"
 	},	
@@ -131,6 +155,7 @@
 	"title": "The World Is Not Enough",
 	"actor": "Pearse Brosnan",
 	"year": 1999,
+	"video": "https://www.youtube.com/embed/InWhPtZ9hOo",
 	"director": "Michael Apted",
 	"writer": "Neal Purvis, Robert Wade, Bruce Feirstein"
 	},
@@ -138,6 +163,7 @@
 	"title": "Die Another Day",
 	"actor": "Pearse Brosnan",
 	"year": 2002,
+	"video": "https://www.youtube.com/embed/4uZRYO8BcL4",
 	"director": "Lee Tamahori",
 	"writer": "Neal Purvis, Robert Wade, Bruce Feirstein"
 	},
@@ -145,6 +171,7 @@
 	"title": "Casino Royale",
 	"actor": "Daniel Craig",
 	"year": 2006,
+	"video": "https://www.youtube.com/embed/nOAZp40zJ3M",
 	"director": "Martin Campbell",
 	"writer": "Neal Purvis, Robert Wade, Paul Haggis"
 	},
@@ -152,6 +179,7 @@
 	"title": "Quantum of Solace",
 	"actor": "Daniel Craig",
 	"year": 2008,
+	"video": "https://www.youtube.com/embed/nOAZp40zJ3M",
 	"director": "Marc Forster",
 	"writer": "Neal Purvis, Robert Wade, Paul Haggis"
 	},
@@ -159,6 +187,7 @@
 	"title": "Skyfall",
 	"actor": "Daniel Craig",
 	"year": 2012,
+	"video": "https://www.youtube.com/embed/nOAZp40zJ3M",
 	"director": "Sam Mendes",
 	"writer": "Neal Purvis, Robert Wade, John Logan"
 	}
