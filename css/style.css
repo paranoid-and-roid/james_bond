@@ -1,9 +1,19 @@
-header {
-	width: 100%;	
+body {
+	width: 1150px;
+	color: #333;	
 }
 
-h1, h2 {
-	font-size: 200%;
+header {
+	width: 95%;
+	height: 250px;
+	background-image: url("/images/header.jpg");
+	border-radius: 4px;
+}
+
+h1 {
+	font-size: 300%;
+	color: #ccc;
+	text-align: center;
 }
 
 h2 {
@@ -13,20 +23,26 @@ h2 {
 }
 
 p {
-	text-align: center;
-	font-size: 150%;
-	font-weight: bold;
+	width: 70%;
+	margin: 10px auto;
+	text-align: justify;
+	color: #ccc;
+	font-size: 120%;
+}
+
+table {
+	margin-top: 20px;
 }
 
 td {
-	padding: 10px 10px 10px 0;
+	padding: 10px 40px;
 }
 
 td:first-child {
 	font-weight: bold;
 }
 
-aside, section, header {
+header {
 	margin: 20px auto;
 }
 
@@ -34,18 +50,26 @@ aside {
 	width: 25%;
 	float: left;
 	height: auto;
+	margin: 40px 0;
 }
 
 section {
 	width: 74%;
-	float: left		
+	float: left;
+	margin-top: 40px;	
 }
 
 .details {
 	width: 70%;
-	margin: 0 auto;
-	background: #f0f8ff;
+	margin: 0 auto;	
+	background: #ccc;
 	padding: 30px 10px;
+	border-radius: 3px;
+}
+
+.details p {
+	text-align: center;
+	color: #333;
 }
 
 .youtube {
@@ -56,7 +80,6 @@ section {
 ul {
 	width:100%;
 	padding: 0;
-	margin: 0 auto;
 }
 
 li {
@@ -80,12 +103,16 @@ li:first-child a {
 }
 
 .images {
+	width: 100%;
+	display: inline-block;
+}
+
+.images li {
 	width: 70%;
 	margin: 0 auto;
 }
 
 img {
-	display: inline-block;
 	float: left;
-	margin: 5px;
+	margin: 9px;
 }
