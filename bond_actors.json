@@ -2,7 +2,7 @@
 	{
 		"actor": "Sean Connery",
 		"id": "connery",
-		"title": [
+		"titles": [
 			"Dr. No",
 			"From Russia With Love",
 			"Goldfinger",
@@ -15,14 +15,14 @@
 	{
 		"actor": "George Lazenby",
 		"id": "lazenby",
-		"title": [
+		"titles": [
 			"On Her Majesty's Secret Service"
 		]
 	},
 	{
 		"actor": "Roger Moore",
 		"id": "moore",
-		"title": [
+		"titles": [
 			"Live And Let Die",
 			"The Man With The Golden Gun",
 			"The Spy Who Loved Me",
@@ -35,7 +35,7 @@
 	{
 		"actor": "Timothy Dalton",
 		"id": "dalton",
-		"title": [
+		"titles": [
 			"The Living Daylights",
 			"Licence To Kill"
 		]
@@ -43,7 +43,7 @@
 	{
 		"actor": "Pierce Brosnan",
 		"id": "brosnan",
-		"title": [
+		"titles": [
 			"Goldeneye",
 			"Tomorrow Never Dies",
 			"The World Is Not Enough",
@@ -53,10 +53,11 @@
 	{
 		"actor": "Daniel Craig",
 		"id": "craig",
-		"title": [
+		"titles": [
 			"Casino Royale",
 			"Quantum Of Solace",
-			"Skyfall"
+			"Skyfall",
+			"Spectre"
 		]
 	}
 ]
