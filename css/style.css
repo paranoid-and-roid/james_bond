@@ -3,7 +3,7 @@ body {
 	width: 1150px;
 	margin: 0 auto;
 	background: #210b61;
-	color: #333;
+	color: #000;
 }
 
 #top {
@@ -26,7 +26,6 @@ h1 {
 	font-size: 400%;
 	color: #eee;
 	text-align: center;
-	
 }
 
 header {
@@ -46,7 +45,7 @@ p {
 	width: 70%;
 	margin: 10px auto;
 	text-align: justify;
-	color: #ccc;
+	color: #eee;
 	font-size: 120%;
 }
 
@@ -87,7 +86,7 @@ section {
 
 .details p {
 	text-align: center;
-	color: #333;
+	color: #000;
 }
 
 .youtube {
@@ -95,19 +94,15 @@ section {
 	margin: 20px auto;
 }
 
-iframe {
-	width: 100%;
-}
-
 a, a:link, a:active, a:visited {
 	text-decoration: none;
-	color: #333;
+	color: #003;
 	padding: 12px 6px;
 }
 
 a:hover {
 	text-decoration: none;
-	color: #ccc;
+	color: #eee;
 }
 
 dl {
@@ -144,10 +139,6 @@ dd {
 	margin: 5px auto;
 	text-align: center;
 	background: #aaa;	
-}
-
-dd a {
-	color: #000;
 }
 
 dl:first-child dt a:hover, dd a:hover {
