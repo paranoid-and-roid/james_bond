@@ -131,7 +131,7 @@ dl:first-child dt:hover, dd:hover {
 
 dt, dd {
 	padding: 5px;
-	border-radius: 4px;
+	border-radius: 3px;
 }
 
 dt {
@@ -190,4 +190,8 @@ footer {
     text-decoration: none;
     padding: 5px;
     margin-left: 3px;
+}
+
+.grey:hover {
+	background: #210b61;
 }
