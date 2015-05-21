@@ -1,9 +1,12 @@
 <aside>
-	<ul >
-		<li><a class="btn btn-primary" ui-sref="home.main">Home</a></li>
-		<li ng-repeat="film in films"><a  class="btn btn-primary" ui-sref="home.detail({ title: film.title })">{{ film.title }}</a></li>
-	</ul>
+	<dl>
+		<dt><a ui-sref="home.main">Home</a></dt>
+	</dl>
+	<dl drop-when-hovered-over ng-repeat="film in films">
+		<dt>{{ film.actor_name }}</dt>
+		<dd ng-repeat="title in film.titles" ng-class="{{ film.id }}"><a ui-sref="home.detail({ title: title })">{{ title }}</a></dd>
+	</dl>	
 </aside>
-	
+
 	<div ui-view></div>
 		

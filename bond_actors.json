@@ -1,6 +1,6 @@
 [
 	{
-		"actor": "Sean Connery",
+		"actor_name": "Sean Connery",
 		"id": "connery",
 		"titles": [
 			"Dr. No",
@@ -13,14 +13,14 @@
 		]
 	},
 	{
-		"actor": "George Lazenby",
+		"actor_name": "George Lazenby",
 		"id": "lazenby",
 		"titles": [
 			"On Her Majesty's Secret Service"
 		]
 	},
 	{
-		"actor": "Roger Moore",
+		"actor_name": "Roger Moore",
 		"id": "moore",
 		"titles": [
 			"Live And Let Die",
@@ -33,7 +33,7 @@
 		]
 	},
 	{
-		"actor": "Timothy Dalton",
+		"actor_name": "Timothy Dalton",
 		"id": "dalton",
 		"titles": [
 			"The Living Daylights",
@@ -41,7 +41,7 @@
 		]
 	},
 	{
-		"actor": "Pierce Brosnan",
+		"actor_name": "Pierce Brosnan",
 		"id": "brosnan",
 		"titles": [
 			"Goldeneye",
@@ -51,7 +51,7 @@
 		]
 	},
 	{
-		"actor": "Daniel Craig",
+		"actor_name": "Daniel Craig",
 		"id": "craig",
 		"titles": [
 			"Casino Royale",

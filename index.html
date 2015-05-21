@@ -5,13 +5,25 @@
 	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
 	<link rel="stylesheet" href="css/style.css" />
 </head>
-<body class="container">
+<body>
+
+<div class="container">
 	
-	<h1>James Bond Films</h1>
+	<div id="top">
+		<img src="images/007.jpg" />
+		<h1>My Name Is Bond</h1>
+		<img src="images/007.jpg" />
+	</div>
 	
 	<header></header>	
 	
 	<div ui-view></div>
+
+</div>
+
+	<footer>
+		<p>You can examine all the code for this page at my github, which can be accessed <a href = "https://github.com/paranoid-and-roid/james_bond" class = "grey">here</a></p>
+	</footer>
 	
 <script src="bower_components/jquery/dist/jquery.js"></script>
 <script src="bower_components/angular/angular.js"></script>
@@ -19,6 +31,7 @@
 <script src="js/app.js"></script>
 <script src="js/controllers.js"></script>
 <script src="js/services.js"></script>
+<!--<script src="js/directives.js"></script>-->
 
 </body>
 </html>

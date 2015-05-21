@@ -14,9 +14,9 @@ var myApp = angular.module("myApp", ['ui.router'])
 			controller: 'MainController'
 		})
 		.state('home.detail', {
-			url: '/:title',
+			url: '/{title}',
 			templateUrl: 'templates/home.detail.html',
-			controller: 'DetailCtrl'
+			controller: 'MainController'
 		});
 
 	$urlRouterProvider.otherwise('/');

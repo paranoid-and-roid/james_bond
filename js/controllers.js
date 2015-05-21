@@ -1,22 +1,16 @@
 myApp
 
-	.controller('MainController', ['$scope', "bondService", function($scope, bondService) {
-		bondService.list(function(response){
+	.controller('MainController', ['$scope', "bondService", '$stateParams', '$sce', function($scope, bondService, $stateParams, $sce) {
+		bondService.sideList(function(response){
 			$scope.films = response;
 		});
-		
-		bondService.image(function(response) {
-			$scope.images = response;
-		});
-	}])
-	.controller('DetailCtrl', ['$scope', 'bondService', '$stateParams', '$sce', function($scope, bondService, $stateParams, $sce) {
-		bondService.detail($stateParams.title, function(response) {
-			$scope.film = response;
-			
-		$scope.trustSource = function(src) {
-    		return $sce.trustAsResourceUrl(src);
-  			};
 
-		});
+		bondService.filmDetail($stateParams.title, function(response) {
+			$scope.film = response;
+
+		$scope.trustSource = function(src) {
+			return $sce.trustAsResourceUrl(src);
+			};
+
+        });
 	}]);
-	
